@@ -11,6 +11,9 @@ There is a "SelfDirected" tag that is really just all of the cards I forgot to t
 
 I would also highly reccomend using [SpanishDict](https://www.spanishdict.com/) in conjunction with this deck for practice and as an introduction to some of the concepts of Spanish.
 
+Finally, if you are interested, you can begin taking classes with my Spanish tutor from Guatemala via Skype by emailing her at this address: 
+doriscitan@hotmail.com.  PLEASE DO NOT ABUSE THIS ADDRESS.  Her name is Doris.  She is super nice and charges $10/hr at the time of writing this.
+
 ### My Preferred Settings
 I usually have 10 new cards/day, but this depends on your schedule.
 ![Untitled](https://user-images.githubusercontent.com/63984796/117141785-f0a7a280-ad7c-11eb-8f8b-c7716773d6ac.png)
