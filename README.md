@@ -17,5 +17,5 @@ Finally, if you are interested, you can begin taking classes with my Spanish tut
 doriscitan@hotmail.com.  PLEASE DO NOT ABUSE THIS ADDRESS.  Her name is Doris.  She is super nice and charges $10/hr at the time of writing this.
 
 ### My Preferred Settings
-I usually have 10 new cards/day, but this depends on your schedule.
+I usually have 10 new cards/day, but this depends on your schedule. **IMPORTANT EDIT!**: Interval modifier should be set to 100%
 ![Untitled](https://user-images.githubusercontent.com/63984796/117141785-f0a7a280-ad7c-11eb-8f8b-c7716773d6ac.png)
